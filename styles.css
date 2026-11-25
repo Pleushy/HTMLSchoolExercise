@@ -1,1 +1,5 @@
-awa
+body {
+    background-color: green;
+    color: blue;
+    padding: 10px;
+}
